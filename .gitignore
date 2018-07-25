@@ -1,2 +1,6 @@
 elm-stuff
 elm.js
+
+*.idea
+*.iml
+*.tar
